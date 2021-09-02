@@ -14,4 +14,4 @@
 
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploytemplate=https://github.com/IzzyLord/google-translate)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploytemplate=https://github.com/IzzyLord/Google-Translate)
